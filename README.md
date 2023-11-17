@@ -2,7 +2,7 @@
 
 Jak zacząć?
 
-1. Zainstaluj Pythona: [Windows](https://www.python.org/ftp/python/3.11.6/python-3.11.6-embed-amd64.zip)
+1. Zainstaluj Pythona: [Windows](https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe)
 2. Zainstaluj Gita: [Windows](https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe)
 3. Otwórz `Git bash` i wpisz:
 ```bash
