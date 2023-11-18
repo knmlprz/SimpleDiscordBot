@@ -4,9 +4,16 @@ Jak zacząć?
 
 1. Zainstaluj Pythona: [Windows](https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe)
 2. Zainstaluj Gita: [Windows](https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe)
-3. Otwórz `Git bash` i wpisz:
+3. Stwórz własne repozytorium z template:
+![](img/repo-1.png)
+![](img/repo-2.png)
+Otwórz `Git bash` i wpisz:
 ```bash
-git clone https://github.com/knmlprz/SimpleDiscordBot.git
+git clone <TU-WKLEJ-SKOPIOWANY-LINK>
+```
+Przykład poprawnego polecenia:
+```bash
+git clone https://github.com/finloop/SimpleBot.git
 ```
 4. Otwórz folder `SimpleDiscordBot` np. w Visual Studio Code
 5. Otwórz terminal i wpisz (to zainstaluje bibliotekę discord.py):
